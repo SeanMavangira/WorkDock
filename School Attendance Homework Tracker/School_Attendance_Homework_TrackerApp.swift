@@ -11,7 +11,7 @@ import SwiftUI
 struct School_Attendance_Homework_TrackerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WelcomePage()
         }
     }
 }
